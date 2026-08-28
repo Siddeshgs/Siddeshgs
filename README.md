@@ -1,44 +1,31 @@
-<h1 align="center">Hi, I'm Siddesh 👋</h1>
-
-<h3 align="center">Full Stack Developer (Java • Spring Boot • React) building reliable, well-tested systems</h3>
-
-<p align="center">
-  I build full stack applications — and then I break them on purpose, so no one else has to.
-</p>
+<h1 align="center">Siddesh G S</h1>
+<h3 align="center">Full Stack Developer — Java / Spring Boot / React</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddesh-gs-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:siddeshgs2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+CS graduate from Dayananda Sagar College of Engineering (2026). I mostly work in Java/Spring Boot on the backend and React on the frontend, and I come from a bit of a testing background so I tend to write JUnit tests and check things through Postman before calling something done.
 
-### 🧑‍💻 About Me
-
-- 🎓 Computer Science graduate, Dayananda Sagar College of Engineering (2023–2026)
-- 🛠️ Full stack development in **Java, Spring Boot, React.js**, with backend depth in **Python, Node.js/Express**
-- 🧪 What sets my work apart: I bring a **testing engineer's discipline** into every build — JUnit for service-layer logic, Postman for API validation, functional & regression passes before anything ships
-- 💾 Comfortable across relational and NoSQL: **MySQL, MongoDB**
-- 🐳 Containerize and deploy with **Docker**
-- 🔭 Currently looking for **Software Engineer / Full Stack Developer** roles in Bengaluru
-- 📫 Reach me at **siddeshgs2004@gmail.com**
+Currently looking for full stack / SDE roles in Bengaluru.
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-**[Car Rental System](https://github.com/Siddeshgs/car-rental-system)** — Java, Spring Boot, MySQL
-A full booking platform with REST APIs built and validated through Postman, JUnit test cases covering service-layer booking logic, and functional/regression testing after every feature and bug fix.
+**[Car Rental System](https://github.com/Siddeshgs/car-rental-system)** (Java, Spring Boot, MySQL)
+Booking system with REST APIs, service-layer JUnit tests, and Postman for endpoint validation.
 
-**[EldCare Caretaker App](https://github.com/Siddeshgs/eldcare_caretaker_app)** — Flutter/Dart
-The caretaker-facing companion app for an IoT elder-care device — connects to fall detection, obstacle detection, and emergency alert hardware, with GPS location tracking. Verified sensor data accuracy and system reliability across multiple test scenarios.
+**[EldCare Caretaker App](https://github.com/Siddeshgs/eldcare_caretaker_app)** (Flutter/Dart)
+Companion mobile app for an IoT elder-care device — handles fall detection alerts, GPS tracking, and emergency notifications from the hardware side.
 
-**[Kissan Mitra](https://github.com/Siddeshgs/kissan-mitra)** — MERN Stack
-A direct farmer-to-consumer e-commerce platform. Built and tested REST APIs, validated CRUD operations and MongoDB data consistency, and implemented authenticated user workflows.
+**[Kissan Mitra](https://github.com/Siddeshgs/kissan-mitra)** (MERN)
+E-commerce app connecting farmers directly with buyers. REST APIs, MongoDB, auth.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -54,7 +41,7 @@ A direct farmer-to-consumer e-commerce platform. Built and tested REST APIs, val
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddeshgs&show_icons=true&theme=default&hide_border=true" alt="Siddesh's GitHub stats" height="165"/>
@@ -62,9 +49,9 @@ A direct farmer-to-consumer e-commerce platform. Built and tested REST APIs, val
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddeshgs&hide_border=true" alt="Siddesh's streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Siddeshgs&hide_border=true" alt="Siddesh's streak stats"/>
 </p>
 
 ---
 
-<p align="center"><i>Open to referrals and conversations — feel free to reach out.</i></p>
+<p align="center"><i>Open to referrals — feel free to email me.</i></p>
