@@ -41,17 +41,5 @@ E-commerce app connecting farmers directly with buyers. REST APIs, MongoDB, auth
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddeshgs&show_icons=true&theme=default&hide_border=true" alt="Siddesh's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddeshgs&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Siddeshgs&hide_border=true" alt="Siddesh's streak stats"/>
-</p>
-
----
 
 <p align="center"><i>Open to referrals — feel free to email me.</i></p>
